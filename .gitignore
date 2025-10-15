@@ -21,3 +21,6 @@ __pycache__/
 *.pkl
 *.h5
 *.model
+env/
+venv/
+.venv/
